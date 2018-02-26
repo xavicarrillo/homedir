@@ -16,6 +16,7 @@
 .tblive-4/
 .terraform.d/
 .vim_mru_files
+.vim_runtime/
 .viminfo
 .zsh-update
 .zsh_history
