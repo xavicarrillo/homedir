@@ -4,8 +4,6 @@
 # Path to your oh-my-zsh installation.
 export ZSH=/opt/repos/oh-my-zsh
 
-# For Brew in Mac
-export HOMEBREW_GITHUB_API_TOKEN=" 3d7b18adc8b62bec338ed5a175e5c5bf0e945623"
 # For pip in Mac
 export PATH=$HOME/Library/Python/2.7/bin:/usr/local/bin:$PATH
 
