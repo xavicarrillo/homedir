@@ -1,0 +1,25 @@
+[user]
+	name = Xavier Carrillo
+	email = xavier.carrillo@clarivate.com
+[color]
+	ui = true
+[alias]
+	c  = commit -m
+        ci = commit
+	s  = status
+	co = checkout
+	di = diff
+	dc = diff --cached
+	rb = rebase
+	rc = rebase --continue
+	lol = log --pretty=format:'%h %s - %an, %ar ' --abbrev-commit --graph --decorate -n50
+	uncommit = reset --soft HEAD^
+	cp = cherry-pick
+	ignore = !git update-index --assume-unchanged
+	unignore = !git update-index --no-assume-unchanged
+	ignored = !git ls-files -v | grep '^[a-z]' | cut -f2 -d' '
+
+# If we add this we dont need to specify orign branch when pushing
+# If you dont add this and do git push it will push all the branches
+[push]
+default = simple
