@@ -95,6 +95,3 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-# To get rid of files like '.zcompdump-Xavier’s MacBook Pro-5.3'
-compinit -d ~/.cache/zsh/zcompdump-$ZSH_VERSION
