@@ -5,11 +5,11 @@
 	ui = true
 [alias]
 	c  = commit -m
-        ci = commit
+	ci = commit
 	s  = status
 	co = checkout
-	di = diff
-	dc = diff --cached
+	di = diff --no-pager
+	dc = diff --no-pager --cached
 	rb = rebase
 	rc = rebase --continue
 	lol = log --pretty=format:'%h %s - %an, %ar ' --abbrev-commit --graph --decorate -n50
