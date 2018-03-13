@@ -6,6 +6,9 @@
 [alias]
 	c  = commit -m
 	ci = commit
+	caa = commit -a --amend -C HEAD
+	# will take all uncommitted and un-staged changes currently in the working directory
+	# and add them to the previous commit, amending it before pushing the change up.
 	s  = status
 	co = checkout
 	di = diff --no-pager
