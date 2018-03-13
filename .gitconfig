@@ -12,6 +12,7 @@
 	dc = diff --no-pager --cached
 	rb = rebase
 	rc = rebase --continue
+	p  = "!sh -c 'git pull --rebase ; git push'"
 	lol = log --pretty=format:'%h %s - %an, %ar ' --abbrev-commit --graph --decorate -n50
 	uncommit = reset --soft HEAD^
 	cp = cherry-pick
