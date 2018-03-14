@@ -32,3 +32,5 @@ Pictures/
 Public/
 .Trash/
 *.zcompdump*
+.m2/
+.oracle_jre_usage/
