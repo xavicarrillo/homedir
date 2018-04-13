@@ -34,3 +34,6 @@ Public/
 *.zcompdump*
 .m2/
 .oracle_jre_usage/
+.npm/
+node_modules/
+package-lock.json
