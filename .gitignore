@@ -35,5 +35,6 @@ Public/
 .m2/
 .oracle_jre_usage/
 .npm/
+.npmrc
 node_modules/
 package-lock.json
