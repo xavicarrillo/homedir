@@ -39,3 +39,4 @@ Public/
 node_modules/
 package-lock.json
 .jfrog
+.gradle
