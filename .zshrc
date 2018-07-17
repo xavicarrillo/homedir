@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH=/opt/repos/oh-my-zsh
+export ZSH=/src/oh-my-zsh
 
 # For pip in Mac
 export PATH=$HOME/Library/Python/2.7/bin:/usr/local/bin:$PATH
