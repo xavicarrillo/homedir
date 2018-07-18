@@ -42,4 +42,4 @@ package-lock.json
 .gradle
 .groovy
 .cups
-venv_molecule/
+venv_molecule*
