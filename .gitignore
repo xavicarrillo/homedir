@@ -43,3 +43,4 @@ package-lock.json
 .groovy
 .cups
 venv_molecule*
+.wget-hsts
