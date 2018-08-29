@@ -44,3 +44,4 @@ package-lock.json
 .cups
 venv_molecule*
 .wget-hsts
+.lesshst
