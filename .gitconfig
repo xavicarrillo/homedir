@@ -26,4 +26,7 @@
 # If we add this we dont need to specify orign branch when pushing
 # If you dont add this and do git push it will push all the branches
 [push]
-default = simple
+  default = simple
+
+[protocol]
+  version = 2
