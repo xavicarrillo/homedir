@@ -1,4 +1,5 @@
 --type-set=puppet=pp
+--type-set=jinja=j2
 --color
 --ignore-dir=.terraform
 --ignore-dir=.atom
