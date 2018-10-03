@@ -30,3 +30,6 @@
 
 [protocol]
   version = 2
+
+[pull]
+  rebase = true
