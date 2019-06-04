@@ -45,3 +45,4 @@ package-lock.json
 venv/
 .wget-hsts
 .lesshst
+.kube
