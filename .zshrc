@@ -98,4 +98,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 unsetopt share_history
-source venv/molecule_2.19/bin/activate
+source venv/molecule_2.20/bin/activate
