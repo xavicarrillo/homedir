@@ -105,3 +105,6 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
+
+alias k='kubecolor --kubeconfig ./kubeconfig'
+alias h='helm --kubeconfig ./kubeconfig'
